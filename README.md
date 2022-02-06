@@ -1,2 +1,2 @@
-# M1_Calculator_Project
+# M1_Calculator_Utility
 A calculator project
