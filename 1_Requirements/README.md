@@ -11,7 +11,7 @@ The Requirements consists of two levels :
     The operations are carried out as per the user requirements. 
     For example - To add two numbers, an addition operation that is '+' is used.
     
-    __SWOT ANALYSIS OF CALCULATOR -__ 
+    __SWOT ANALYSIS OF CALCULATOR__ - 
 
 STRENGTH - It is user friendly.
            It can be used multiple n number of times.
