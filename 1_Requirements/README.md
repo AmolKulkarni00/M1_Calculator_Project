@@ -1,5 +1,5 @@
 INTRODUCTION -
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Calculator is an user friendly project that allows the user to do arthematic operations. Such as addition, subtraction, multiplication and division. Then few special operations. 
 In my project, the user is asked to select the operations required. The calculator then will perform the arthematic operations, then will give the result.
 
