@@ -25,9 +25,9 @@ The Requirements consists of two levels :
 
 ## STRENGTH -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#####*It is user friendly.
-#####*It can be used multiple n number of times.
-#####*It is used by almost everyone.
+##### * It is user friendly.
+##### * It can be used multiple n number of times.
+##### * It is used by almost everyone.
 
 ## WEAKNESS -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
