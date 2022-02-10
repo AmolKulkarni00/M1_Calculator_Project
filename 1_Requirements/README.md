@@ -29,6 +29,8 @@ OPPORTUNITES - The Calculator is used by everyone, so this is like ever green in
 
 THREATS - The ever evolving world in the field of Technology will become a threat to the basic calculator.
 
+4 W and 1 H - 
+
 WHAT - In this utility we can easily calculate the tough numericals with accurate results and save our precious time
 
 WHY- This is used in order to minimize the calculations done by humans during their work or any other circumstances so that they could continue with the next pile of work
