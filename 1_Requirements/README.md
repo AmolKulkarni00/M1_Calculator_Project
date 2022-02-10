@@ -26,7 +26,7 @@ SWOT ANALYSIS OF CALCULATOR -
 STRENGTH -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 It is user friendly.
-##### It can be used multiple n number of times.
+It can be used multiple n number of times.
 It is used by almost everyone.
 
 WEAKNESS -
