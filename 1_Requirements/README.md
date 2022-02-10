@@ -23,24 +23,24 @@ The Requirements consists of two levels :
 SWOT ANALYSIS OF CALCULATOR - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-STRENGTH -
+# STRENGTH -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-It is user friendly.
-It can be used multiple n number of times.
-It is used by almost everyone.
+##### It is user friendly.
+##### It can be used multiple n number of times.
+##### It is used by almost everyone.
 
 WEAKNESS -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- It does not include complex number, trignometry, logs, square and cubic roots operations.
+ ##### It does not include complex number, trignometry, logs, square and cubic roots operations.
 
 OPPORTUNITES - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- The Calculator is used by everyone, so this is like ever green in the market. 
- The making of new technology based calculator is always required.
+ ##### The Calculator is used by everyone, so this is like ever green in the market. 
+ ##### The making of new technology based calculator is always required.
 
 THREATS - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- The ever evolving world in the field of Technology will become a threat to the basic calculator.
+ ##### The ever evolving world in the field of Technology will become a threat to the basic calculator.
 
 4 W and 1 H -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
