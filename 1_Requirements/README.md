@@ -8,7 +8,7 @@ The Requirements consists of two levels :
 1 - High Level Requirements - 
 
     Basic Arthimetic Operations consisting of '+' , '-' , '*' , '/' are performed.
-    Few Special Operations such as '%' , '| |' are performed.
+    Few Special Operations such as '%' is also performed.
     The user can select anyone of the above required operation.
 
 2 - Low Level Requirements -
@@ -28,3 +28,13 @@ OPPORTUNITES - The Calculator is used by everyone, so this is like ever green in
                The making of new technology based calculator is always required.
 
 THREATS - The ever evolving world in the field of Technology will become a threat to the basic calculator.
+
+WHAT - In this utility we can easily calculate the tough numericals with accurate results and save our precious time
+
+WHY- This is used in order to minimize the calculations done by humans during their work or any other circumstances so that they could continue with the next pile of work
+
+WHEN - If there is a need to calculate numericals which we generally feel hard can be easily solved by this utility 
+
+WHO - Persons dealing with accounts, especially mathematics in their routine , trading, exponentials can utilize this and be benefited 
+
+HOW - By clearly knowing what values or calculations to be done and entering them accurately leading to operations performance will result in a better way
