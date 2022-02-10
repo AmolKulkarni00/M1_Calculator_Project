@@ -63,4 +63,4 @@ Persons dealing with accounts, especially mathematics in their routine , trading
 
 ### HOW - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-By clearly knowing what values or calculations to be done and entering them accurately leading to operations performance will result in a better way
+By clearly knowing what values or calculations to be done and entering them accurately leading to operations performance will result in a better way.
