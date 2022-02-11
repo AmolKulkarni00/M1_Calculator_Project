@@ -16,8 +16,7 @@ The Requirements consists of two levels :
 
 2 - Low Level Requirements -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  * The operations are carried out as per the user requirements. 
-  * For example - To add two numbers, an addition operation that is '+' is used.
+ ![Untitled 1](https://user-images.githubusercontent.com/98872937/153560455-ffff6e39-1345-46c3-88a5-f47418bb320b.jpg)
     
 # SWOT ANALYSIS OF CALCULATOR - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
