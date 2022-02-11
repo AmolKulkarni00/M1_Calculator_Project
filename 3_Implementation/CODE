@@ -1,0 +1,81 @@
+#include<stdio.h>
+
+  float addition(float n1, float n2);
+  float subtraction(float n1, float n2);
+  float multiplication(float n1, float n2);
+  float division(float n1, float n2);
+  float modules(float n1, float n2);
+
+  int main()
+  {
+     char choice;
+     float n1, n2;
+     float result = 0;
+ 
+    printf("Enter the First Number\n");
+    scanf("%f" , &n1);
+
+    printf("Enter the Second Number\n");
+    scanf("%f" , &n2);
+
+    printf("Select the Arthimatic Operation you want to perfrom (+, -, *, /, %) : ");
+    scanf("%c" , &choice);
+
+    switch(choice)
+     {
+       case '+' :
+           result = addition(n1 , n2);
+           break;
+           printf("\n The result of %.2f %c %.2f  = %.2f", n1, choice, n2, result);
+
+       case '-' :
+           result = subtraction(n1 , n2);
+           break;
+           printf("\n The result of %.2f %c %.2f  = %.2f", n1, choice, n2, result);
+
+      case '*' :
+           result = multiplication(n1 , n2);
+           break;
+           printf("\n The result of %.2f %c %.2f  = %.2f", n1, choice, n2, result);
+
+      case '/' :
+           result = division(n1 , n2);
+           break;
+           printf("\n The result of %.2f %c %.2f  = %.2f", n1, choice, n2, result);
+
+      case '%' :
+           result = modules(n1 , n2);
+           break;
+           printf("\n The result of %.2f %c %.2f  = %.2f", n1, choice, n2, result);
+
+       default:
+           printf("\n You have enetered an Invalid Operator ");
+    }
+    return 0;
+  }
+
+  float addition(float n1, float n2)
+    {
+      return n1 + n2;
+    }
+  
+  float subtraction(float n1, float n2)
+    {
+      return n1 - n2;
+    }
+
+  float multiplication(float n1, float n2)
+    {
+      return n1 * n2;
+    }
+
+  float division(float n1, float n2)
+    {
+      return n1 / n2;
+    }
+  float modules(float n1, float n2)
+    {
+      return n1 % n2;
+    }
+
+
