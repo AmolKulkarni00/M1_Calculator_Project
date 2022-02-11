@@ -8,12 +8,10 @@ In my project, the user is asked to select the operations required. The calculat
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Requirements consists of two levels :
-
-1 - High Level Requirements - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- * Basic Arthimetic Operations consisting of '+' , '-' , '*' , '/' are performed.
- * Few Special Operations such as '%' is also performed.
- * The user can select anyone of the above required operation.
+ 
+ ![Untitled](https://user-images.githubusercontent.com/98872937/153554864-225ec1c2-9a31-45b8-b457-c930a4113ea9.jpg)
+
 
 2 - Low Level Requirements -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
