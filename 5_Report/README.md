@@ -61,3 +61,15 @@ Persons dealing with accounts, especially mathematics in their routine , trading
 ### HOW - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 By clearly knowing what values or calculations to be done and entering them accurately leading to operations performance will result in a better way.
+
+FLOWCHART DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Flowchart](https://user-images.githubusercontent.com/98872937/153472637-0d494f5f-651e-4311-bbe1-3b64e7338bbb.jpeg)
+
+SEQUENCE DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Sequence](https://user-images.githubusercontent.com/98872937/153473273-c6796a46-b036-4468-971f-95b48dce87c0.jpeg)
+
+COMPONENT DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Component](https://user-images.githubusercontent.com/98872937/153473565-524793dd-6684-4733-9986-9b39a55809ac.jpeg)
