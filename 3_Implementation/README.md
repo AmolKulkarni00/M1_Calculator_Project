@@ -1,1 +1,1 @@
-Code of the project is written in C language.
+Code of the project is written in C language
