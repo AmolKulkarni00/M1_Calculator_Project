@@ -1,7 +1,7 @@
 # INTRODUCTION -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Calculator is an user friendly project that allows the user to do arithmetic operations. Such as addition, subtraction, multiplication and division. Then a special operation such as modules. In my project, the user is asked to select the operations required. The calculator then will perform the arithmetic operations, then will give the result.
+The Calculator is an user friendly project that allows the user to do arithmetic operations. Such as addition, subtraction, multiplication and division. In my project, the user is asked to select the operations required. The calculator then will perform the arithmetic operations, then will give the result.
 
 # REQUIREMENTS - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
