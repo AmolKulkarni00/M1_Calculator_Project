@@ -9,4 +9,4 @@ Codacy
 Codiga
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Codiga Badge](https://api.codiga.io/project/31063/status/svg)
+[![Codiga Badge](https://api.codiga.io/project/31063/status/svg)](https://app.codiga.io/public/project/31063/M1_Calculator_Utility/dashboard)
