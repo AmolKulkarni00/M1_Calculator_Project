@@ -8,5 +8,5 @@ SEQUENCE DIAGRAM
 
 COMPONENT DIAGRAM
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Component](https://user-images.githubusercontent.com/98872937/153473565-524793dd-6684-4733-9986-9b39a55809ac.jpeg)
+![Component New](https://user-images.githubusercontent.com/98872937/154619375-2c48dc4d-4912-4532-82ee-10dfaf400466.jpg)
 
