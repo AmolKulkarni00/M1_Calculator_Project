@@ -13,10 +13,9 @@ The Requirements consists of two levels :
 
 ![Untitled](https://user-images.githubusercontent.com/98872937/153554864-225ec1c2-9a31-45b8-b457-c930a4113ea9.jpg)
 
-
 2 - Low Level Requirements -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Untitled 1](https://user-images.githubusercontent.com/98872937/154620375-512cb734-acbb-4998-8d92-f4b274c5af71.jpg)
+![Untitled 1](https://user-images.githubusercontent.com/98872937/153560455-ffff6e39-1345-46c3-88a5-f47418bb320b.jpg)
     
 # SWOT ANALYSIS OF CALCULATOR - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
