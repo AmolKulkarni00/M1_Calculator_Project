@@ -7,6 +7,10 @@ Build
 [![C/C++ CI](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml) 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Cpp Check
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Cppcheck](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml)
 Codacy
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
