@@ -10,7 +10,9 @@ Build
 Cpp Check
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Cppcheck](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml)
+[![Cppcheck](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml) 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Codacy
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
