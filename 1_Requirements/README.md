@@ -1,14 +1,14 @@
-# INTRODUCTION -
+# INTRODUCTION 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Calculator is an user friendly project that allows the user to do arithmetic operations. Such as addition, subtraction, multiplication and division. In my project, the user is asked to select the operations required. The calculator then will perform the arithmetic operations, then will give the result.
 
-# REQUIREMENTS - 
+# REQUIREMENTS 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Requirements consists of two levels :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 1 - High Level Requirements -
+ 1 - High Level Requirements 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Description | 	Category | Status |
@@ -29,10 +29,10 @@ The Requirements consists of two levels :
 | LR01 | If the calculations is impossible the calculator shall display an error message to the user | Technical | IMPLEMENTED |
 | LR02 | The calculator shall do the arithmetic operations selected by the user                      | Technical | IMPLEMENTED |
     
-# SWOT ANALYSIS OF CALCULATOR - 
+# SWOT ANALYSIS OF CALCULATOR 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## STRENGTH -
+## STRENGTH 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### * It is user friendly.
 ##### * It can be used multiple n number of times.
