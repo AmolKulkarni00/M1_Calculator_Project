@@ -34,25 +34,7 @@ The Requirements consists of two levels :
 
 ![Untitled Workspace (1)](https://user-images.githubusercontent.com/98872937/156564177-fced696b-165f-4aed-a9f2-b9527f2e1464.jpg)
 
-# 4 W and 1 H -
+# 5W and 1H 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### WHAT -
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-In this utility we can easily calculate the tough numericals with accurate results and save our precious time
-
-### WHY - 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This is used in order to minimize the calculations done by humans during their work or any other circumstances so that they could continue with the next pile of work
-
-### WHEN - 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If there is a need to calculate numericals which we generally feel hard can be easily solved by this utility 
-
-### WHO - 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Persons dealing with accounts, especially mathematics in their routine , trading, exponentials can utilize this and be benefited 
-
-### HOW - 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-By clearly knowing what values or calculations to be done and entering them accurately leading to operations performance will result in a better way.
+![5W 1H](https://user-images.githubusercontent.com/98872937/156577308-046e1a01-c350-4b27-b313-e25a65be5eac.jpg)
