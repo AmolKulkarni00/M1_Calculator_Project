@@ -1,18 +1,17 @@
-name: Build-Linux
+ name: Build-linux
 
-on:
+ on: 
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
-jobs:
+    
+ jobs:
   build:
-
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make /home/runner/work/M1_Calculator_Utlility/M1_Calculator_Utility/3_Implementation 
+      run: make -C 3_Implementation 
