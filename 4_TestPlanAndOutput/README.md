@@ -7,6 +7,8 @@ HIGH LEVEL TEST PLAN
 |-----|-----------------------------------------------------|---------------|-------------------|-------------------|----------------|
 | H01 | Check if the code is working as expected            |  Valid Input  | Correct Output    | Correct Output    | Manual Testing |
 | H02 | Check if the system handles the boundary conditions | Invalid Input | Incorrect Display | Incorrect Display | Manual Testing |
+| H03 | Check for the flow control jump                     | For Valid I/P | Jumps Correctly   | Jumps Correctly   | Manual Testing |
+| H04 | Check for the flow control jump                     |  Invalid I\P  | Incorrect Display | Incorrect Display | Manual Testing | 
 
 OUTPUT
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
