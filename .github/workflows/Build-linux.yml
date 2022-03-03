@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make /home/runner/work/M1_Calculator_Utlility/M1_Calculator_Utility/3_Implimentation 
+      run: make /home/runner/work/M1_Calculator_Utlility/M1_Calculator_Utility/3_Implementation 
