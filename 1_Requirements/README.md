@@ -11,7 +11,8 @@ The Requirements consists of two levels :
  1 - High Level Requirements -
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Untitled](https://user-images.githubusercontent.com/98872937/153554864-225ec1c2-9a31-45b8-b457-c930a4113ea9.jpg)
+| ID | Description | 	Category | Status |
+| HR01 | User shall be able to select the operation choice | Technical | IMPLEMENTED |
 
 2 - Low Level Requirements -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
