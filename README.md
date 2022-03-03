@@ -4,6 +4,7 @@
 Build
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/faa5436a8f0a497c86eae71cda0f5125)](https://app.codacy.com/gh/AmolKulkarni00/M1_Calculator_Utility?utm_source=github.com&utm_medium=referral&utm_content=AmolKulkarni00/M1_Calculator_Utility&utm_campaign=Badge_Grade_Settings)
 [![C/C++ CI](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml) 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
