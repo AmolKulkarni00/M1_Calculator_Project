@@ -3,7 +3,10 @@ TEST PLAN
 
 HIGH LEVEL TEST PLAN
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Untitled 2](https://user-images.githubusercontent.com/98872937/153711139-d2c1a0fd-7e0e-452e-ab30-916b94b08e94.jpg) 
+| Test ID | Descrpition | Exp I/P | Exp O/P | Actual Output | Type Of Test |
+|-----|------------------------------------------|-------------|----------------|----------------|
+| H01 | Check if the code is working as expected | Valid Input | Correct Output | Manual Testing |
+| H02 | Check if the system handles the boundary conditions | Invalid Input | Incorrect Display | Incorrect Display | Manual Testing |
 
 OUTPUT
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
