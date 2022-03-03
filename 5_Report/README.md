@@ -1,9 +1,9 @@
-# INTRODUCTION 
+# Introduction
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Calculator is an user friendly project that allows the user to do arithmetic operations. Such as addition, subtraction, multiplication and division. In my project, the user is asked to select the operations required. The calculator then will perform the arithmetic operations, then will give the result.
 
-# REQUIREMENTS 
+# Requirements 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Requirements consists of two levels 
@@ -37,4 +37,25 @@ The Requirements consists of two levels
 # 5W and 1H 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![5W 1H](https://user-images.githubusercontent.com/98872937/156577308-046e1a01-c350-4b27-b313-e25a65be5eac.jpg)
+![5W 1H](https://user-images.githubusercontent.com/98872937/156577308-046e1a01-c350-4b27-b313-e25a65be5eac.jpg) 
+
+# Architecture 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FLOWCHART DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Flow Chart](https://user-images.githubusercontent.com/98872937/156617426-8c9ae864-91b5-4815-ba4b-72d93496db49.jpg)
+
+SEQUENCE DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Sequence](https://user-images.githubusercontent.com/98872937/153473273-c6796a46-b036-4468-971f-95b48dce87c0.jpeg)
+
+COMPONENT DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Component Diagram](https://user-images.githubusercontent.com/98872937/156582035-9e68efa9-7c68-45b8-a268-f48d10cd1566.jpg)
+
+STRUCTURE DIAGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Structure Diagram](https://user-images.githubusercontent.com/98872937/156578499-75320acf-e713-47c1-a45d-1398039a8cc8.jpg) 
+
+
