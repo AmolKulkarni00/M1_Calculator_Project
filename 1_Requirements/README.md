@@ -23,7 +23,11 @@ The Requirements consists of two levels :
 
 2 - Low Level Requirements -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Untitled 1](https://user-images.githubusercontent.com/98872937/153560455-ffff6e39-1345-46c3-88a5-f47418bb320b.jpg)
+
+| ID | Description | Category | Status |
+|------|---------------------------------------------------------------------------------------------|-----------|-------------|
+| LR01 | If the calculations is impossible the calculator shall display an error message to the user | Technical | IMPLEMENTED |
+| LR02 | The calculator shall do the arithmetic operations selected by the user                      | Technical | IMPLEMENTED |
     
 # SWOT ANALYSIS OF CALCULATOR - 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
