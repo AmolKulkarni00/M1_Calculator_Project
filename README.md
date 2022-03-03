@@ -1,7 +1,7 @@
 # M1_Calculator_Utility
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Build | Cpp Check
+Build         |       Cpp Check
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![C/C++ CI](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml) 
