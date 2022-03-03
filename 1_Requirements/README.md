@@ -14,6 +14,12 @@ The Requirements consists of two levels :
 | ID | Description | 	Category | Status |
 |------|---------------------------------------------------|-----------|-------------|
 | HR01 | User shall be able to select the operation choice | Technical | IMPLEMENTED |
+| HR02 | User shall be able to add two numbers             | Technical | IMPLEMENTED |
+| HR03 | User shall be able to subtract two numbers        | Technical | IMPLEMENTED |
+| HR04 | User shall be able to multiply two numbers        | Technical | IMPLEMENTED |
+| HR05 | User shall be able to divide two mumbers          | Technical | IMPLEMENTED |
+| HR06 | User shall be able to find modulus of two numbers | Technical | IMPLEMENTED |
+| HR07 | User shall be able to find factorial of a number  | Technical | IMPLEMENTED |
 
 2 - Low Level Requirements -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
