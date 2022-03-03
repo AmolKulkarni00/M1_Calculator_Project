@@ -10,6 +10,23 @@ HIGH LEVEL TEST PLAN
 | H03 | Check for the flow control jump                     | For Valid I/P | Jumps Correctly   | Jumps Correctly   | Manual Testing |
 | H04 | Check for the flow control jump                     |  Invalid I\P  | Incorrect Display | Incorrect Display | Manual Testing | 
 
+LOW LEVEL TEST PLAN
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+| Test ID | Descrpition | Exp I/P | Exp O/P | Actual Output | Type of Test |
+|-----|----------------|-------------|------------|------------|-----------|
+| L01 | addition       | float value | float O/P  | float O/P  | Unit Test |
+| L02 | addition       | int value   | int O/P    | int O/P    | Unit Test |
+| L03 | subtraction    | float value | float O/P  | float O/P  | Unit Test |
+| L04 | subtraction    | int value   | int O/P    | int O/P    | Unit Test |
+| L05 | multiplication | float value | float O/P  | float O/P  | Unit Test | 
+| L06 | multiplication | int value   | int O/P    | int O/P    | Unit Test |
+| L07 | division       | float value | float O/P  | float O/P  | Unit Test |
+| L08 | division       | int value   | int O/P    | int O/P    | Unit Test |
+| L09 | modulus        | float value | Terminates | Terminates | Unit Test |
+| L10 | modulus        | int value   | int O/P    | int O/P    | Unit Test |
+| L11 | factorial      | float value | Terminates | Terminates | Unit Test |
+| L12 | factorial      | int value   | int O/P    | int O/P    | Unit Test | 
+
 OUTPUT
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
