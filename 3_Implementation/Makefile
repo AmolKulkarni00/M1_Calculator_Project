@@ -1,5 +1,5 @@
 PROJ_NAME = Calculator
-SRC = fAct.c main.c mOdulus.c
+SRC = src/fAct.c main.c mOdulus.c\
 
 ifdef OS
    RM = del /q
