@@ -29,7 +29,7 @@ The Requirements consists of two levels
 | LR01 | If the calculations is impossible the calculator shall display an error message to the user | Technical | IMPLEMENTED |
 | LR02 | The calculator shall do the arithmetic operations selected by the user                      | Technical | IMPLEMENTED |
     
-# SWOT ANALYSIS OF CALCULATOR 
+# SWOT Analysis Of Calculator 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Untitled Workspace (1)](https://user-images.githubusercontent.com/98872937/156564177-fced696b-165f-4aed-a9f2-b9527f2e1464.jpg)
