@@ -4,8 +4,8 @@ TEST PLAN
 HIGH LEVEL TEST PLAN
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Test ID | Descrpition | Exp I/P | Exp O/P | Actual Output | Type Of Test |
-|-----|------------------------------------------|-------------|----------------|----------------|
-| H01 | Check if the code is working as expected | Valid Input | Correct Output | Manual Testing |
+|-----|-----------------------------------------------------|---------------|-------------------|-------------------|----------------|
+| H01 | Check if the code is working as expected            |  Valid Input  | Correct Output    | Correct Output    | Manual Testing |
 | H02 | Check if the system handles the boundary conditions | Invalid Input | Incorrect Display | Incorrect Display | Manual Testing |
 
 OUTPUT
