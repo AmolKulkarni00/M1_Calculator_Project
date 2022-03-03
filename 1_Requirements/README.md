@@ -8,7 +8,7 @@ The Calculator is an user friendly project that allows the user to do arithmetic
 
 The Requirements consists of two levels :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 1 - High Level Requirements 
+ ## High Level Requirements 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Description | 	Category | Status |
@@ -21,7 +21,7 @@ The Requirements consists of two levels :
 | HR06 | User shall be able to find modulus of two numbers | Technical | IMPLEMENTED |
 | HR07 | User shall be able to find factorial of a number  | Technical | IMPLEMENTED |
 
-2 - Low Level Requirements -
+## Low Level Requirements 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Description | Category | Status |
