@@ -28,7 +28,15 @@ Folder Description
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Folder Name | Description |
-|-------------|-------------|
+|-------------|-------------| 
+| 0_Certificates | The required certificates are added | 
+| 1_Requirements | Detailed documents of high and low level requirements |
+| 2_Architecture | Design such as Structural and Flowchart diagram of project |
+| 3_Implementation | The code files of the project |
+| 4_TestPlanAndOutput | It includes test case tables |
+| 5_Report | Detailed report of the project |
+| 6_ImageAndVideo | Images of Output and Other screenshots |
+| 7_Other | References to the project | 
 
 
 
