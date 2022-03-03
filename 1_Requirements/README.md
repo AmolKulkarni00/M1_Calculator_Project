@@ -12,6 +12,7 @@ The Requirements consists of two levels :
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Description | 	Category | Status |
+|------|---------------------------------------------------|-----------|-------------|
 | HR01 | User shall be able to select the operation choice | Technical | IMPLEMENTED |
 
 2 - Low Level Requirements -
