@@ -22,7 +22,12 @@ Codiga Badges
 |--------------|--------------|
 | [![Codiga Badge](https://api.codiga.io/project/31063/status/svg)](https://app.codiga.io/public/project/31063/M1_Calculator_Utility/dashboard) | [![Codiga Badge](https://api.codiga.io/project/31063/score/svg)](https://app.codiga.io/public/user/github/AmolKulkarni00) | 
 
+Codeac Badge
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+| Codeac |
+|--------|
+| [![Codeac](https://static.codeac.io/badges/2-455846207.svg "Codeac")](https://app.codeac.io/github/AmolKulkarni00/M1_Calculator_Utility) |
 
 Tools Used
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
