@@ -1,7 +1,8 @@
 # INTRODUCTION 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Calculator is an user friendly project that allows the user to do arithmetic operations. Such as addition, subtraction, multiplication and division. In my project, the user is asked to select the operations required. The calculator then will perform the arithmetic operations, then will give the result.
+* Simple Calculator helps users to calculate simple calculations with great speed and accessibility. This project allows users to calculate basic four operations in mathematics such as, Addition, Subtraction, Multiplication, Division. In this Project which I have implemented special operations such as Modulus and Factorial. 
+* The user will be asked to select the operation required. The calculator then calculates and displays the answer to the users.
 
 # REQUIREMENTS 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
