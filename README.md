@@ -34,6 +34,7 @@ Tools Used
 
 * Codacy
 * Codiga
+* Codeac
 
 Folder Description
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +50,12 @@ Folder Description
 | 6_ImageAndVideo | Images of Output and Other screenshots |
 | 7_Other | References to the project | 
 
-
-
+Description
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Introduction
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Simple Calculator helps users to calculate simple calculations with great speed and accessibility. This project allows users to calculate basic four operations in mathematics such as, Addition, Subtraction, Multiplication, Division. In this Project which I have implemented special operations such as Modulus and Factorial.
+* The input includes the command such as, we can give numbers based on the operation the user wants. For example, for addition we give 1 as a command and that particular operation works. 
+* 
 
 
