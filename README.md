@@ -4,9 +4,9 @@
 Badges
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Build | Cpp Check | 
-|-------|-----------|
-| [![C/C++ CI](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml) | 
+| Build | Cpp Check | Valgrind Check |
+|-------|-----------|----------------|
+| [![C/C++ CI](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/static.yml) | [![Valgrind](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/Dynamic-test.yml/badge.svg)](https://github.com/AmolKulkarni00/M1_Calculator_Utility/actions/workflows/Dynamic-test.yml) |
 
 Codacy Badge
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
